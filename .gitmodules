@@ -1,0 +1,3 @@
+[submodule "go-cli-todo-list"]
+	path = go-cli-todo-list
+	url = https://github.com/ChrisLucas02/go-cli-todo-list
